@@ -1,0 +1,365 @@
+{
+  "schema_version": 1,
+  "source": {
+    "site": "otodom.pl",
+    "url": "https://www.otodom.pl/pl/oferta/3-pokoje-marina-mokotow-taras-garaz-ID4Cw2a",
+    "scraped_at_utc": "2026-08-22T22:19:10.082508+00:00"
+  },
+  "identity": {
+    "otodom_id_from_url": "ID4Cw2a",
+    "id": 68281106,
+    "slug": "3-pokoje-marina-mokotow-taras-garaz-ID4Cw2a",
+    "title": "3 pokoje * Marina Mokotów * Taras * Garaż !",
+    "status": "active",
+    "advert_type": "AGENCY",
+    "market": "ALL"
+  },
+  "main": {
+    "price": 4300,
+    "currency": null,
+    "czynsz": 1100,
+    "deposit": 5750,
+    "area_m2": "55",
+    "rooms": [
+      "3"
+    ],
+    "floor": [
+      "floor_6"
+    ],
+    "building_floors": "7",
+    "build_year": "2021",
+    "property_type": "mieszkanie",
+    "building_type": [
+      "block"
+    ],
+    "building_material": null,
+    "heating": [
+      "urban"
+    ],
+    "windows": [
+      "plastic"
+    ],
+    "price_per_m2": null
+  },
+  "features": {
+    "equipment": [
+      "furniture",
+      "washing_machine",
+      "dishwasher",
+      "fridge",
+      "stove",
+      "oven"
+    ],
+    "extras": [
+      "balcony",
+      "lift",
+      "air_conditioning"
+    ],
+    "media": [
+      "internet"
+    ],
+    "security": [
+      "entryphone"
+    ],
+    "characteristics": {
+      "price": {
+        "key": "price",
+        "value": "4300",
+        "currency": "PLN",
+        "localizedValue": "4300 zł"
+      },
+      "rent": {
+        "key": "rent",
+        "value": "1100",
+        "currency": "PLN",
+        "localizedValue": "1100 zł"
+      },
+      "deposit": {
+        "key": "deposit",
+        "value": "5750",
+        "currency": "PLN",
+        "localizedValue": "5750 zł"
+      },
+      "m": {
+        "key": "m",
+        "value": "55",
+        "localizedValue": "55 m²",
+        "currency": ""
+      },
+      "building_type": {
+        "key": "building_type",
+        "value": "block",
+        "localizedValue": "",
+        "currency": ""
+      },
+      "floor_no": {
+        "key": "floor_no",
+        "value": "floor_6",
+        "localizedValue": "",
+        "currency": ""
+      },
+      "construction_status": {
+        "key": "construction_status",
+        "value": "ready_to_use",
+        "localizedValue": "",
+        "currency": ""
+      },
+      "windows_type": {
+        "key": "windows_type",
+        "value": "plastic",
+        "localizedValue": "",
+        "currency": ""
+      },
+      "heating": {
+        "key": "heating",
+        "value": "urban",
+        "localizedValue": "",
+        "currency": ""
+      },
+      "rooms_num": {
+        "key": "rooms_num",
+        "value": "3",
+        "localizedValue": "3",
+        "currency": ""
+      },
+      "build_year": {
+        "key": "build_year",
+        "value": "2021",
+        "localizedValue": "2021",
+        "currency": ""
+      },
+      "building_floors_num": {
+        "key": "building_floors_num",
+        "value": "7",
+        "localizedValue": "7",
+        "currency": ""
+      },
+      "free_from": {
+        "key": "free_from",
+        "value": "2026-09-01",
+        "localizedValue": "2026-09-01",
+        "currency": ""
+      }
+    },
+    "target_all": {
+      "Area": "55",
+      "AreaRange": [],
+      "Build_year": "2021",
+      "Building_floors_num": "7",
+      "Building_type": [
+        "block"
+      ],
+      "City": "warszawa",
+      "City_id": "26",
+      "Construction_status": [
+        "ready_to_use"
+      ],
+      "Country": "Polska",
+      "Deposit": 5750,
+      "Equipment_types": [
+        "furniture",
+        "washing_machine",
+        "dishwasher",
+        "fridge",
+        "stove",
+        "oven"
+      ],
+      "Extras_types": [
+        "balcony",
+        "lift",
+        "air_conditioning"
+      ],
+      "Floor_no": [
+        "floor_6"
+      ],
+      "Heating": [
+        "urban"
+      ],
+      "Id": "68281106",
+      "Media_types": [
+        "internet"
+      ],
+      "ObidoAdvert": "n",
+      "OfferType": "wynajem",
+      "Photo": "aHR0cHM6Ly9pcmVsYW5kLmFwb2xsby5vbHhjZG4uY29tL3YxL2ZpbGVzL2V5Sm1iaUk2SW01bGQyUjZkWGh5WlhnNU5pMUJVRXdpTENKM0lqcGJleUptYmlJNkltVnVkbVp4Y1dVeFlYazBhekV0UVZCTUlpd2ljeUk2SWpFMElpd2ljQ0k2SWpFd0xDMHhNQ0lzSW1FaU9pSXdJbjFkZlEuX3NpbjZiWHF2cnBpOHJ0ektvUGk0M1kzcXNUbFVnbDZKZUxHeTdnejdqdy9pbWFnZTtzPTY1NXg0OTE7cT04MA==",
+      "Price": 4300,
+      "PriceRange": [
+        "3001-5000"
+      ],
+      "ProperType": "mieszkanie",
+      "Province": "mazowieckie",
+      "RegularUser": "n",
+      "Rent": 1100,
+      "Rooms_num": [
+        "3"
+      ],
+      "Security_types": [
+        "entryphone"
+      ],
+      "Subregion": "powiat-warszawa",
+      "Title": "MyBwb2tvamUgKiBNYXJpbmEgTW9rb3TDs3cgKiBUYXJhcyAqIEdhcmHFvCAh",
+      "Windows_type": [
+        "plastic"
+      ],
+      "categoryId": "102",
+      "env": "production",
+      "hidePrice": "0",
+      "seller_id": "7340557",
+      "user_type": "agency"
+    }
+  },
+  "location": {
+    "street": "ul. Białej Floty",
+    "city": "warszawa",
+    "province": "mazowieckie",
+    "reverse_geocoding": {
+      "voivodeship": {
+        "id": "mazowieckie",
+        "locationLevel": "voivodeship",
+        "name": "mazowieckie",
+        "fullName": "mazowieckie",
+        "fullNameItems": [
+          "mazowieckie"
+        ],
+        "parentIds": [],
+        "__typename": "BasicLocationObject"
+      },
+      "city_or_village": {
+        "id": "mazowieckie/warszawa/warszawa/warszawa",
+        "locationLevel": "city_or_village",
+        "name": "Warszawa",
+        "fullName": "Warszawa, mazowieckie",
+        "fullNameItems": [
+          "Warszawa",
+          "mazowieckie"
+        ],
+        "parentIds": [
+          "mazowieckie",
+          "mazowieckie/warszawa",
+          "mazowieckie/warszawa/warszawa"
+        ],
+        "__typename": "BasicLocationObject"
+      },
+      "district": {
+        "id": "mazowieckie/warszawa/warszawa/warszawa/mokotow",
+        "locationLevel": "district",
+        "name": "Mokotów",
+        "fullName": "Mokotów, Warszawa, mazowieckie",
+        "fullNameItems": [
+          "Mokotów",
+          "Warszawa",
+          "mazowieckie"
+        ],
+        "parentIds": [
+          "mazowieckie",
+          "mazowieckie/warszawa",
+          "mazowieckie/warszawa/warszawa",
+          "mazowieckie/warszawa/warszawa/warszawa"
+        ],
+        "__typename": "BasicLocationObject"
+      },
+      "residential": {
+        "id": "mazowieckie/warszawa/warszawa/warszawa/mokotow/wygledow",
+        "locationLevel": "residential",
+        "name": "Wyględów",
+        "fullName": "Wyględów, Mokotów, Warszawa, mazowieckie",
+        "fullNameItems": [
+          "Wyględów",
+          "Mokotów",
+          "Warszawa",
+          "mazowieckie"
+        ],
+        "parentIds": [
+          "mazowieckie",
+          "mazowieckie/warszawa",
+          "mazowieckie/warszawa/warszawa",
+          "mazowieckie/warszawa/warszawa/warszawa",
+          "mazowieckie/warszawa/warszawa/warszawa/mokotow"
+        ],
+        "__typename": "BasicLocationObject"
+      }
+    }
+  },
+  "advertiser": {
+    "owner_name": "United Capital Partners",
+    "agency_name": "United Capital Partners"
+  },
+  "dates": {
+    "created_at": "2026-08-04T14:24:27Z",
+    "modified_at": "2026-08-04T14:24:35Z",
+    "pushed_up_at": null
+  },
+  "description": "Z przyjemnością prezentuję Państwu do wynajęcia 3 pokojowe mieszkanie.\nLokal znajduje się przy ul. Białej Floty 4 i jest częścią inwestycji Marina Mokotów II.\nPreferowalibyśmy wynajem dla osób pracujących bądź studentów.\nRozkład:\n- Dwie oddzielne sypialnie ( wyposażone w: pojedyncze łóżka, biurka oraz szafy )\n- Przedpokój z zabudowaną szafą ( 4 m2 )\n- Salon połączony z aneksem kuchennym ( 18 m2 ) oraz wyjściem na przestronny taras ( 15 m2 )\n- Łazienka z kabiną prysznicową oraz pralką\nNajważniejsze informacje dotyczące mieszkania:\n- 6 piętro\n- Wysoki standard\n- Mieszkanie zadbane, oddane do użytku dwa lata temu, było zamieszkane przez jednego najemcę.\n- 1 miejsce postojowe w garażu podziemnym wliczone cenę najmu.\nKoszty związane z wynajmem:\nCzynsz: 4300 zł\nCzynsz Administracyjny ( z zaliczkami na wodę dla dwóch osób): 1100 zł\nDodatkowo: Prąd z liczników.\nOpcjonalne: Miejsce postojowe w garażu podziemnym w kwocie: 300 zł / miesięcznie.\nKaucja: 5750 zł\nNajem Okazjonalny - min rok.\nMarcin Chłopek\nSpecjalista ds. nieruchomości United Capital",
+  "images": [
+    {
+      "thumbnail": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im5ld2R6dXhyZXg5Ni1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.zVlQXClpd1bVI3Y0VN8kLOx1GSM7M5h2WZ87hWKFtdo/image;s=184x138;q=80",
+      "small": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im5ld2R6dXhyZXg5Ni1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.zVlQXClpd1bVI3Y0VN8kLOx1GSM7M5h2WZ87hWKFtdo/image;s=314x236;q=80",
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im5ld2R6dXhyZXg5Ni1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.zVlQXClpd1bVI3Y0VN8kLOx1GSM7M5h2WZ87hWKFtdo/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im5ld2R6dXhyZXg5Ni1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.zVlQXClpd1bVI3Y0VN8kLOx1GSM7M5h2WZ87hWKFtdo/image;s=2048x1536;q=80",
+      "isExterior": false
+    },
+    {
+      "thumbnail": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InM5bDJ2OGhzZ3ZmbzEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.fKlliqpm49LDP9WNr_GmOtzb23aL5fJ_u9cNBbzErrc/image;s=184x138;q=80",
+      "small": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InM5bDJ2OGhzZ3ZmbzEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.fKlliqpm49LDP9WNr_GmOtzb23aL5fJ_u9cNBbzErrc/image;s=314x236;q=80",
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InM5bDJ2OGhzZ3ZmbzEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.fKlliqpm49LDP9WNr_GmOtzb23aL5fJ_u9cNBbzErrc/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InM5bDJ2OGhzZ3ZmbzEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.fKlliqpm49LDP9WNr_GmOtzb23aL5fJ_u9cNBbzErrc/image;s=2048x1536;q=80",
+      "isExterior": false
+    },
+    {
+      "thumbnail": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImZmbW52aHdhdTJpYi1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.EhAYxSB3oaAFy59ELdIqL81LwBMa6sSvGCHh5agxbpc/image;s=184x138;q=80",
+      "small": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImZmbW52aHdhdTJpYi1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.EhAYxSB3oaAFy59ELdIqL81LwBMa6sSvGCHh5agxbpc/image;s=314x236;q=80",
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImZmbW52aHdhdTJpYi1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.EhAYxSB3oaAFy59ELdIqL81LwBMa6sSvGCHh5agxbpc/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImZmbW52aHdhdTJpYi1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.EhAYxSB3oaAFy59ELdIqL81LwBMa6sSvGCHh5agxbpc/image;s=2048x1536;q=80",
+      "isExterior": false
+    },
+    {
+      "thumbnail": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imw4eW5yMnp1YWp6bTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.0qcbHyFYmycqs1SxND42h8J8Ws3GS4AxJ_CJBpGEFCY/image;s=184x138;q=80",
+      "small": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imw4eW5yMnp1YWp6bTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.0qcbHyFYmycqs1SxND42h8J8Ws3GS4AxJ_CJBpGEFCY/image;s=314x236;q=80",
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imw4eW5yMnp1YWp6bTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.0qcbHyFYmycqs1SxND42h8J8Ws3GS4AxJ_CJBpGEFCY/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imw4eW5yMnp1YWp6bTMtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.0qcbHyFYmycqs1SxND42h8J8Ws3GS4AxJ_CJBpGEFCY/image;s=2048x1536;q=80",
+      "isExterior": false
+    },
+    {
+      "thumbnail": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im5sd2UybXpuMTBxZDItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.7hd5hRPnDEyNMwJXtDN6EWLOk0qmplhs-Avy2t993-k/image;s=184x138;q=80",
+      "small": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im5sd2UybXpuMTBxZDItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.7hd5hRPnDEyNMwJXtDN6EWLOk0qmplhs-Avy2t993-k/image;s=314x236;q=80",
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im5sd2UybXpuMTBxZDItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.7hd5hRPnDEyNMwJXtDN6EWLOk0qmplhs-Avy2t993-k/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im5sd2UybXpuMTBxZDItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.7hd5hRPnDEyNMwJXtDN6EWLOk0qmplhs-Avy2t993-k/image;s=2048x1536;q=80",
+      "isExterior": false
+    },
+    {
+      "thumbnail": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im91MTl3bnpyNm1ibzEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Knal1JaK91Hh2pHyK_QI8qEgbiwMGEi52YBJwvz34Bk/image;s=184x138;q=80",
+      "small": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im91MTl3bnpyNm1ibzEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Knal1JaK91Hh2pHyK_QI8qEgbiwMGEi52YBJwvz34Bk/image;s=314x236;q=80",
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im91MTl3bnpyNm1ibzEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Knal1JaK91Hh2pHyK_QI8qEgbiwMGEi52YBJwvz34Bk/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im91MTl3bnpyNm1ibzEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Knal1JaK91Hh2pHyK_QI8qEgbiwMGEi52YBJwvz34Bk/image;s=2048x1536;q=80",
+      "isExterior": false
+    },
+    {
+      "thumbnail": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImQzdjNpODl6NzJpNS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.-dsFOrn6PaUFWIAOg74SqzBTIh4qCCw8IvKlAbdrYJI/image;s=184x138;q=80",
+      "small": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImQzdjNpODl6NzJpNS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.-dsFOrn6PaUFWIAOg74SqzBTIh4qCCw8IvKlAbdrYJI/image;s=314x236;q=80",
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImQzdjNpODl6NzJpNS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.-dsFOrn6PaUFWIAOg74SqzBTIh4qCCw8IvKlAbdrYJI/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImQzdjNpODl6NzJpNS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.-dsFOrn6PaUFWIAOg74SqzBTIh4qCCw8IvKlAbdrYJI/image;s=2048x1536;q=80",
+      "isExterior": false
+    },
+    {
+      "thumbnail": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjcyMXV1d3hxOHljMy1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.vThiG8RgmJqtIwKT7ZqcIGydECrOgMKcdgAKC0WMksU/image;s=184x138;q=80",
+      "small": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjcyMXV1d3hxOHljMy1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.vThiG8RgmJqtIwKT7ZqcIGydECrOgMKcdgAKC0WMksU/image;s=314x236;q=80",
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjcyMXV1d3hxOHljMy1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.vThiG8RgmJqtIwKT7ZqcIGydECrOgMKcdgAKC0WMksU/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjcyMXV1d3hxOHljMy1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.vThiG8RgmJqtIwKT7ZqcIGydECrOgMKcdgAKC0WMksU/image;s=2048x1536;q=80",
+      "isExterior": false
+    },
+    {
+      "thumbnail": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImdlcmdneXplMXAyaTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.PYeUv_CXuxIwMdbesrIf4Y6mvkqa50oxOENrY86ar_E/image;s=184x138;q=80",
+      "small": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImdlcmdneXplMXAyaTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.PYeUv_CXuxIwMdbesrIf4Y6mvkqa50oxOENrY86ar_E/image;s=314x236;q=80",
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImdlcmdneXplMXAyaTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.PYeUv_CXuxIwMdbesrIf4Y6mvkqa50oxOENrY86ar_E/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImdlcmdneXplMXAyaTItQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.PYeUv_CXuxIwMdbesrIf4Y6mvkqa50oxOENrY86ar_E/image;s=2048x1536;q=80",
+      "isExterior": false
+    }
+  ],
+  "links": {
+    "localPlanUrl": "",
+    "walkaroundUrl": "",
+    "videoUrl": "",
+    "view3dUrl": ""
+  },
+  "share_code": "OTO-ID4Cw2a"
+}

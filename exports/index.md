@@ -4,6 +4,7 @@ This file is rebuilt automatically after every export.
 
 | Saved | Listing | Area | Rooms | Rent | Czynsz | Fixed total | ID |
 |---|---|---:|---:|---:|---:|---:|---|
+| 2026-08-22 | ul. Białej Floty · Wyględów · 55 m² · 3 pok. | 55 | 3 | 4300 zł | 1100 zł | 5400 zł | ID4Cw2a |
 | 2026-08-22 | Jana Pawła Woronicza · Służewiec · 59 m² · 3 pok. | 59 | 3 | 4350 zł | 1150 zł | 5500 zł | ID4Cyzj |
 | 2026-08-22 | Antoniewska 6A · Augustówka · 58.05 m² · 3 pok. | 58.05 | 3 | 4500 zł | 1000 zł | 5500 zł | ID4CnCC |
 | 2026-08-22 | ul. Czesława Kłosia · Stare Włochy · 77 m² · 3 pok. | 77 | 3 | 3700 zł | 1200 zł | 4900 zł | ID4CJX9 |
