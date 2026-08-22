@@ -1,8 +1,26 @@
 {
   "schema_version": 1,
-  "updated_at_utc": "2026-08-22T22:19:10.176875+00:00",
-  "count": 8,
+  "updated_at_utc": "2026-08-22T22:22:38.317153+00:00",
+  "count": 9,
   "listings": [
+    {
+      "id": "ID4B9tE",
+      "label": "Franciszka Klimczaka · Błonia Wilanowskie · 68 m² · 3 pok.",
+      "title": "Słoneczne 3 pokoje centrum Miasteczka Wilanów",
+      "street": "Franciszka Klimczaka",
+      "district": "Wilanów",
+      "neighbourhood": "Błonia Wilanowskie",
+      "area_m2": "68",
+      "rooms": "3",
+      "price": 4300,
+      "czynsz": 0,
+      "fixed_monthly_total": 4300,
+      "advert_type": "AGENCY",
+      "advertiser": "RS Real Estate Sp. z o.o.",
+      "scraped_at_utc": "2026-08-22T22:22:38.240885+00:00",
+      "source_url": "https://www.otodom.pl/pl/oferta/sloneczne-3-pokoje-centrum-miasteczka-wilanow-ID4B9tE",
+      "file": "exports/ID4B9tE.json"
+    },
     {
       "id": "ID4Cw2a",
       "label": "ul. Białej Floty · Wyględów · 55 m² · 3 pok.",
