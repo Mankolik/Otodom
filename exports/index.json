@@ -1,8 +1,26 @@
 {
   "schema_version": 1,
-  "updated_at_utc": "2026-08-22T22:16:23.998753+00:00",
-  "count": 6,
+  "updated_at_utc": "2026-08-22T22:17:40.500944+00:00",
+  "count": 7,
   "listings": [
+    {
+      "id": "ID4Cyzj",
+      "label": "Jana Pawła Woronicza · Służewiec · 59 m² · 3 pok.",
+      "title": "Nowoczesne 3 pokoje z garażem przy ul. Woronicza",
+      "street": "Jana Pawła Woronicza",
+      "district": "Mokotów",
+      "neighbourhood": "Służewiec",
+      "area_m2": "59",
+      "rooms": "3",
+      "price": 4350,
+      "czynsz": 1150,
+      "fixed_monthly_total": 5500,
+      "advert_type": "AGENCY",
+      "advertiser": "REST NEST",
+      "scraped_at_utc": "2026-08-22T22:17:40.426238+00:00",
+      "source_url": "https://www.otodom.pl/pl/oferta/nowoczesne-3-pokoje-z-garazem-przy-ul-woronicza-ID4Cyzj",
+      "file": "exports/ID4Cyzj.json"
+    },
     {
       "id": "ID4CnCC",
       "label": "Antoniewska 6A · Augustówka · 58.05 m² · 3 pok.",

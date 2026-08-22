@@ -1,0 +1,335 @@
+{
+  "schema_version": 1,
+  "source": {
+    "site": "otodom.pl",
+    "url": "https://www.otodom.pl/pl/oferta/nowoczesne-3-pokoje-z-garazem-przy-ul-woronicza-ID4Cyzj",
+    "scraped_at_utc": "2026-08-22T22:17:40.426238+00:00"
+  },
+  "identity": {
+    "otodom_id_from_url": "ID4Cyzj",
+    "id": 68294693,
+    "slug": "nowoczesne-3-pokoje-z-garazem-przy-ul-woronicza-ID4Cyzj",
+    "title": "Nowoczesne 3 pokoje z garażem przy ul. Woronicza",
+    "status": "active",
+    "advert_type": "AGENCY",
+    "market": "ALL"
+  },
+  "main": {
+    "price": 4350,
+    "currency": null,
+    "czynsz": 1150,
+    "deposit": 8250,
+    "area_m2": "59",
+    "rooms": [
+      "3"
+    ],
+    "floor": [
+      "floor_2"
+    ],
+    "building_floors": "10",
+    "build_year": "2011",
+    "property_type": "mieszkanie",
+    "building_type": null,
+    "building_material": null,
+    "heating": [
+      "urban"
+    ],
+    "windows": null,
+    "price_per_m2": null
+  },
+  "features": {
+    "equipment": null,
+    "extras": [
+      "lift",
+      "balcony",
+      "garage"
+    ],
+    "media": [
+      "internet"
+    ],
+    "security": [
+      "entryphone",
+      "closed_area"
+    ],
+    "characteristics": {
+      "price": {
+        "key": "price",
+        "value": "4350",
+        "currency": "PLN",
+        "localizedValue": "4350 zł"
+      },
+      "rent": {
+        "key": "rent",
+        "value": "1150",
+        "currency": "PLN",
+        "localizedValue": "1150 zł"
+      },
+      "deposit": {
+        "key": "deposit",
+        "value": "8250",
+        "currency": "PLN",
+        "localizedValue": "8250 zł"
+      },
+      "m": {
+        "key": "m",
+        "value": "59",
+        "localizedValue": "59 m²",
+        "currency": ""
+      },
+      "floor_no": {
+        "key": "floor_no",
+        "value": "floor_2",
+        "localizedValue": "",
+        "currency": ""
+      },
+      "heating": {
+        "key": "heating",
+        "value": "urban",
+        "localizedValue": "",
+        "currency": ""
+      },
+      "rooms_num": {
+        "key": "rooms_num",
+        "value": "3",
+        "localizedValue": "3",
+        "currency": ""
+      },
+      "build_year": {
+        "key": "build_year",
+        "value": "2011",
+        "localizedValue": "2011",
+        "currency": ""
+      },
+      "building_floors_num": {
+        "key": "building_floors_num",
+        "value": "10",
+        "localizedValue": "10",
+        "currency": ""
+      },
+      "free_from": {
+        "key": "free_from",
+        "value": "2026-06-01",
+        "localizedValue": "2026-06-01",
+        "currency": ""
+      }
+    },
+    "target_all": {
+      "Area": "59",
+      "AreaRange": [],
+      "Build_year": "2011",
+      "Building_floors_num": "10",
+      "City": "warszawa",
+      "City_id": "26",
+      "Country": "Polska",
+      "Deposit": 8250,
+      "Extras_types": [
+        "lift",
+        "balcony",
+        "garage"
+      ],
+      "Floor_no": [
+        "floor_2"
+      ],
+      "Heating": [
+        "urban"
+      ],
+      "Id": "68294693",
+      "Media_types": [
+        "internet"
+      ],
+      "ObidoAdvert": "n",
+      "OfferType": "wynajem",
+      "Photo": "aHR0cHM6Ly9pcmVsYW5kLmFwb2xsby5vbHhjZG4uY29tL3YxL2ZpbGVzL2V5Sm1iaUk2SW14bGJ6bGxibm8zWW1ob2NqSXRSVU5QVTFsVFZFVk5JaXdpZHlJNlczc2labTRpT2lKbGJuWm1jWEZsTVdGNU5Hc3hMVUZRVENJc0luTWlPaUl4TkNJc0luQWlPaUl4TUN3dE1UQWlMQ0poSWpvaU1DSjlYWDAuVmlkYjRCaVBoLU51Q3JSalNwVDhqQ2gxUjBXNXlmaktRZURiOW1XTk1zZy9pbWFnZTtzPTY1NXg0OTE7cT04MA==",
+      "Price": 4350,
+      "PriceRange": [
+        "3001-5000"
+      ],
+      "ProperType": "mieszkanie",
+      "Province": "mazowieckie",
+      "RegularUser": "n",
+      "Rent": 1150,
+      "Rooms_num": [
+        "3"
+      ],
+      "Security_types": [
+        "entryphone",
+        "closed_area"
+      ],
+      "Subregion": "powiat-warszawa",
+      "Title": "Tm93b2N6ZXNuZSAzIHBva29qZSB6IGdhcmHFvGVtIHByenkgdWwuIFdvcm9uaWN6YQ==",
+      "categoryId": "102",
+      "env": "production",
+      "hidePrice": "0",
+      "seller_id": "7929006",
+      "user_type": "agency"
+    }
+  },
+  "location": {
+    "street": "Jana Pawła Woronicza",
+    "city": "warszawa",
+    "province": "mazowieckie",
+    "reverse_geocoding": {
+      "voivodeship": {
+        "id": "mazowieckie",
+        "locationLevel": "voivodeship",
+        "name": "mazowieckie",
+        "fullName": "mazowieckie",
+        "fullNameItems": [
+          "mazowieckie"
+        ],
+        "parentIds": [],
+        "__typename": "BasicLocationObject"
+      },
+      "city_or_village": {
+        "id": "mazowieckie/warszawa/warszawa/warszawa",
+        "locationLevel": "city_or_village",
+        "name": "Warszawa",
+        "fullName": "Warszawa, mazowieckie",
+        "fullNameItems": [
+          "Warszawa",
+          "mazowieckie"
+        ],
+        "parentIds": [
+          "mazowieckie",
+          "mazowieckie/warszawa",
+          "mazowieckie/warszawa/warszawa"
+        ],
+        "__typename": "BasicLocationObject"
+      },
+      "district": {
+        "id": "mazowieckie/warszawa/warszawa/warszawa/mokotow",
+        "locationLevel": "district",
+        "name": "Mokotów",
+        "fullName": "Mokotów, Warszawa, mazowieckie",
+        "fullNameItems": [
+          "Mokotów",
+          "Warszawa",
+          "mazowieckie"
+        ],
+        "parentIds": [
+          "mazowieckie",
+          "mazowieckie/warszawa",
+          "mazowieckie/warszawa/warszawa",
+          "mazowieckie/warszawa/warszawa/warszawa"
+        ],
+        "__typename": "BasicLocationObject"
+      },
+      "residential": {
+        "id": "mazowieckie/warszawa/warszawa/warszawa/mokotow/sluzewiec",
+        "locationLevel": "residential",
+        "name": "Służewiec",
+        "fullName": "Służewiec, Mokotów, Warszawa, mazowieckie",
+        "fullNameItems": [
+          "Służewiec",
+          "Mokotów",
+          "Warszawa",
+          "mazowieckie"
+        ],
+        "parentIds": [
+          "mazowieckie",
+          "mazowieckie/warszawa",
+          "mazowieckie/warszawa/warszawa",
+          "mazowieckie/warszawa/warszawa/warszawa",
+          "mazowieckie/warszawa/warszawa/warszawa/mokotow"
+        ],
+        "__typename": "BasicLocationObject"
+      }
+    }
+  },
+  "advertiser": {
+    "owner_name": "REST NEST",
+    "agency_name": "REST NEST"
+  },
+  "dates": {
+    "created_at": "2026-08-08T11:25:13Z",
+    "modified_at": "2026-08-09T16:25:27Z",
+    "pushed_up_at": null
+  },
+  "description": "Prezentowane mieszkanie ma powierzchnię 59 m2, na którą składają się:\n- salon połączony z aneksem kuchennym,\n- oddzielna sypialnia,\n- pokój z niewielką garderobą,\n- łazienka,\n- osobna toaleta,\n- oraz przedpokój.\nDodatkowo do lokalu przynależy miejsce parkingowe w garażu podziemnym.\nLokal został wykończony w nowoczesnym stylu i jest w pełni wyposażony w meble oraz wysokiej jakości sprzęty AGD. Unikalnym rozwiązaniem są szklane, przesuwne drzwi oddzielające salon od sypialni z garderobą, co pozwala na dowolne sterowanie przestrzenią i doświetleniem wnętrza. Ogromnym atutem nieruchomości jest duży, przestronny balkon, który stanowi idealne miejsce do odpoczynku na świeżym powietrzu. Dzięki układowi z jedną sypialnią i gabinetem, mieszkanie jest doskonałą propozycją dla singla lub pary pracującej zdalnie, ceniącej funkcjonalność i wysoki standard wykończenia.\nLokal znajduje się na drugim piętrze dziesięciopiętrowego budynku z 2011 roku, zarządzanego przez Wspólnotę Mieszkaniową.\nPołożenie nieruchomości na Mokotowie przy ul. Woronicza, gwarantuje doskonałą infrastrukturę i szybki dostęp do punktów usługowych. W bezpośrednim sąsiedztwie znajdują się liczne sklepy, kawiarnie oraz placówki edukacyjne. Lokalizacja ta oferuje bardzo sprawną komunikację z pozostałymi dzielnicami Warszawy dzięki bliskości przystanków autobusowych i tramwajowych, a także dogodny dojazd do zagłębia biurowego na Służewcu.\nCena najmu: 4 350 zł\nDodatkowo trzeba doliczyć:\n- czynsz administracyjny 1 150 zł\n- opłaty licznikowe (prąd, Internet/TV, nadwyżka wody itp.).",
+  "images": [
+    {
+      "thumbnail": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imxlbzllbno3YmhocjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.X5sbh9xd6HoWbCLTWbBJAitOyzqfdRDK0ehgpubCBVs/image;s=184x138;q=80",
+      "small": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imxlbzllbno3YmhocjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.X5sbh9xd6HoWbCLTWbBJAitOyzqfdRDK0ehgpubCBVs/image;s=314x236;q=80",
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imxlbzllbno3YmhocjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.X5sbh9xd6HoWbCLTWbBJAitOyzqfdRDK0ehgpubCBVs/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imxlbzllbno3YmhocjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.X5sbh9xd6HoWbCLTWbBJAitOyzqfdRDK0ehgpubCBVs/image;s=2048x1536;q=80",
+      "isExterior": false
+    },
+    {
+      "thumbnail": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImZ0Y2thbzBqMW53dDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.RwhPJhB2-rln6BATIL4zo4J9ve_xnJd6il7IyhbFdOM/image;s=184x138;q=80",
+      "small": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImZ0Y2thbzBqMW53dDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.RwhPJhB2-rln6BATIL4zo4J9ve_xnJd6il7IyhbFdOM/image;s=314x236;q=80",
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImZ0Y2thbzBqMW53dDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.RwhPJhB2-rln6BATIL4zo4J9ve_xnJd6il7IyhbFdOM/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImZ0Y2thbzBqMW53dDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.RwhPJhB2-rln6BATIL4zo4J9ve_xnJd6il7IyhbFdOM/image;s=2048x1536;q=80",
+      "isExterior": false
+    },
+    {
+      "thumbnail": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjB2dXFnMG9qaHhmYjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.ud5Lg1vmKrfcUOg1ChWnhul0S3EDGFkRhD5ENuxPZF0/image;s=184x138;q=80",
+      "small": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjB2dXFnMG9qaHhmYjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.ud5Lg1vmKrfcUOg1ChWnhul0S3EDGFkRhD5ENuxPZF0/image;s=314x236;q=80",
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjB2dXFnMG9qaHhmYjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.ud5Lg1vmKrfcUOg1ChWnhul0S3EDGFkRhD5ENuxPZF0/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjB2dXFnMG9qaHhmYjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.ud5Lg1vmKrfcUOg1ChWnhul0S3EDGFkRhD5ENuxPZF0/image;s=2048x1536;q=80",
+      "isExterior": false
+    },
+    {
+      "thumbnail": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InozaW9vYnlnbnZtcTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.LJluwl6EVDU3kVowLQusdsVIQSOeJP-YkM3zdxDpKfw/image;s=184x138;q=80",
+      "small": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InozaW9vYnlnbnZtcTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.LJluwl6EVDU3kVowLQusdsVIQSOeJP-YkM3zdxDpKfw/image;s=314x236;q=80",
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InozaW9vYnlnbnZtcTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.LJluwl6EVDU3kVowLQusdsVIQSOeJP-YkM3zdxDpKfw/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InozaW9vYnlnbnZtcTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.LJluwl6EVDU3kVowLQusdsVIQSOeJP-YkM3zdxDpKfw/image;s=2048x1536;q=80",
+      "isExterior": false
+    },
+    {
+      "thumbnail": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InhrczFhYmt2aGozajEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.8ML2hgggKTxNbBNoxaHFOFYF6ZEC67fPYFQH48nnjgs/image;s=184x138;q=80",
+      "small": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InhrczFhYmt2aGozajEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.8ML2hgggKTxNbBNoxaHFOFYF6ZEC67fPYFQH48nnjgs/image;s=314x236;q=80",
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InhrczFhYmt2aGozajEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.8ML2hgggKTxNbBNoxaHFOFYF6ZEC67fPYFQH48nnjgs/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InhrczFhYmt2aGozajEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.8ML2hgggKTxNbBNoxaHFOFYF6ZEC67fPYFQH48nnjgs/image;s=2048x1536;q=80",
+      "isExterior": false
+    },
+    {
+      "thumbnail": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImlwcHdtbzMxOTZ0YTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.b2jmJCSIHowkV901cReCksrRwyYrCY3GqkSKKXUJY7U/image;s=184x138;q=80",
+      "small": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImlwcHdtbzMxOTZ0YTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.b2jmJCSIHowkV901cReCksrRwyYrCY3GqkSKKXUJY7U/image;s=314x236;q=80",
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImlwcHdtbzMxOTZ0YTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.b2jmJCSIHowkV901cReCksrRwyYrCY3GqkSKKXUJY7U/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImlwcHdtbzMxOTZ0YTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.b2jmJCSIHowkV901cReCksrRwyYrCY3GqkSKKXUJY7U/image;s=2048x1536;q=80",
+      "isExterior": false
+    },
+    {
+      "thumbnail": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Inl2MzhvNmdpeXdlazMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Na0DoO15VafYpyaeN-QDQUshQx1ezaoKwPH385GH9I8/image;s=184x138;q=80",
+      "small": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Inl2MzhvNmdpeXdlazMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Na0DoO15VafYpyaeN-QDQUshQx1ezaoKwPH385GH9I8/image;s=314x236;q=80",
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Inl2MzhvNmdpeXdlazMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Na0DoO15VafYpyaeN-QDQUshQx1ezaoKwPH385GH9I8/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Inl2MzhvNmdpeXdlazMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Na0DoO15VafYpyaeN-QDQUshQx1ezaoKwPH385GH9I8/image;s=2048x1536;q=80",
+      "isExterior": false
+    },
+    {
+      "thumbnail": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjY5bnM3NnNmbnVrczItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.jbZHJhqZBGEH6kgUIJalSMoYY8YtczERZttS6Q8jh_0/image;s=184x138;q=80",
+      "small": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjY5bnM3NnNmbnVrczItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.jbZHJhqZBGEH6kgUIJalSMoYY8YtczERZttS6Q8jh_0/image;s=314x236;q=80",
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjY5bnM3NnNmbnVrczItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.jbZHJhqZBGEH6kgUIJalSMoYY8YtczERZttS6Q8jh_0/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjY5bnM3NnNmbnVrczItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.jbZHJhqZBGEH6kgUIJalSMoYY8YtczERZttS6Q8jh_0/image;s=2048x1536;q=80",
+      "isExterior": false
+    },
+    {
+      "thumbnail": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imh2b2xmeW11bmltOTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.F1yRzQXtVrimbSDCVB0K5ih-19Mir6V12ocyj01VyFM/image;s=184x138;q=80",
+      "small": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imh2b2xmeW11bmltOTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.F1yRzQXtVrimbSDCVB0K5ih-19Mir6V12ocyj01VyFM/image;s=314x236;q=80",
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imh2b2xmeW11bmltOTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.F1yRzQXtVrimbSDCVB0K5ih-19Mir6V12ocyj01VyFM/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imh2b2xmeW11bmltOTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.F1yRzQXtVrimbSDCVB0K5ih-19Mir6V12ocyj01VyFM/image;s=2048x1536;q=80",
+      "isExterior": false
+    },
+    {
+      "thumbnail": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ind2ZXVwcDRtM2t1MDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.fl-TdHUYw4rJfw-KsFYrBIjURSgrnc1YXmQmFQ3QTgM/image;s=184x138;q=80",
+      "small": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ind2ZXVwcDRtM2t1MDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.fl-TdHUYw4rJfw-KsFYrBIjURSgrnc1YXmQmFQ3QTgM/image;s=314x236;q=80",
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ind2ZXVwcDRtM2t1MDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.fl-TdHUYw4rJfw-KsFYrBIjURSgrnc1YXmQmFQ3QTgM/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ind2ZXVwcDRtM2t1MDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.fl-TdHUYw4rJfw-KsFYrBIjURSgrnc1YXmQmFQ3QTgM/image;s=2048x1536;q=80",
+      "isExterior": false
+    },
+    {
+      "thumbnail": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InV1ajI3ZnMybTdzNjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.tl0IxUuNACTtSPM1TDXpV3IUOLvyb2s-9I2vSmnEjSQ/image;s=184x138;q=80",
+      "small": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InV1ajI3ZnMybTdzNjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.tl0IxUuNACTtSPM1TDXpV3IUOLvyb2s-9I2vSmnEjSQ/image;s=314x236;q=80",
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InV1ajI3ZnMybTdzNjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.tl0IxUuNACTtSPM1TDXpV3IUOLvyb2s-9I2vSmnEjSQ/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InV1ajI3ZnMybTdzNjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.tl0IxUuNACTtSPM1TDXpV3IUOLvyb2s-9I2vSmnEjSQ/image;s=2048x1536;q=80",
+      "isExterior": false
+    }
+  ],
+  "links": {
+    "localPlanUrl": "",
+    "walkaroundUrl": "",
+    "videoUrl": "",
+    "view3dUrl": ""
+  },
+  "share_code": "OTO-ID4Cyzj"
+}
