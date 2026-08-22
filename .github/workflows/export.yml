@@ -46,7 +46,10 @@ jobs:
           CODE="$(cat share_code.txt)"
           echo "code=$CODE" >> "$GITHUB_OUTPUT"
 
-      - name: Save listing in repository
+      - name: Rebuild saved-listings catalog
+        run: python build_index.py
+
+      - name: Save listing and catalog in repository
         shell: bash
         run: |
           git config user.name "otodom-share-code[bot]"
@@ -60,23 +63,43 @@ jobs:
             git push origin "HEAD:${GITHUB_REF_NAME}"
           fi
 
-      - name: Show share code
+      - name: Show result
         shell: bash
         run: |
           CODE='${{ steps.scrape.outputs.code }}'
+          ID="${CODE#OTO-}"
           {
             echo "## Otodom export complete"
             echo
-            echo "Send ChatGPT this code:"
+            python - "$ID" <<'PY'
+          import json, sys
+          from pathlib import Path
+          listing_id = sys.argv[1]
+          p = Path("exports") / f"{listing_id}.json"
+          d = json.loads(p.read_text(encoding="utf-8"))
+          main = d.get("main", {})
+          loc = d.get("location", {})
+          ident = d.get("identity", {})
+          price = main.get("price")
+          czynsz = main.get("czynsz")
+          total = None
+          try:
+              total = float(price or 0) + float(czynsz or 0)
+              if total.is_integer():
+                  total = int(total)
+          except Exception:
+              pass
+          print(f"**{ident.get('title') or listing_id}**")
+          print()
+          print(f"- Street: {loc.get('street') or '—'}")
+          print(f"- Area: {main.get('area_m2') or '—'} m²")
+          print(f"- Rent: {price if price is not None else '—'} zł")
+          print(f"- Czynsz: {czynsz if czynsz is not None else '—'} zł")
+          print(f"- Fixed total: {str(total) + ' zł' if total is not None else '—'}")
+          print(f"- Otodom ID: {listing_id}")
+          PY
             echo
-            echo '```'
-            echo "$CODE"
-            echo '```'
+            echo "The repository catalog in \`exports/index.json\` and \`exports/index.md\` has also been refreshed."
             echo
-            echo "The listing data has been saved under \`exports/\`."
+            echo "You do **not** need to remember the ID — you can ask ChatGPT to show or find your saved Otodom listings."
           } >> "$GITHUB_STEP_SUMMARY"
-
-          echo ""
-          echo "=================================="
-          echo " SHARE CODE: $CODE"
-          echo "=================================="
