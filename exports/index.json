@@ -1,8 +1,26 @@
 {
   "schema_version": 1,
-  "updated_at_utc": "2026-08-22T22:22:38.317153+00:00",
-  "count": 9,
+  "updated_at_utc": "2026-08-23T21:19:40.600323+00:00",
+  "count": 10,
   "listings": [
+    {
+      "id": "ID4CKRF",
+      "label": "Wyczółki · 74 m² · 3 pok.",
+      "title": "3-pok apartament na kameralnym osiedlu * GARAŻ",
+      "street": null,
+      "district": "Ursynów",
+      "neighbourhood": "Wyczółki",
+      "area_m2": "74",
+      "rooms": "3",
+      "price": 4500,
+      "czynsz": 1000,
+      "fixed_monthly_total": 5500,
+      "advert_type": "AGENCY",
+      "advertiser": "WeRent",
+      "scraped_at_utc": "2026-08-23T21:19:40.540561+00:00",
+      "source_url": "https://www.otodom.pl/pl/oferta/3-pok-apartament-na-kameralnym-osiedlu-garaz-ID4CKRF",
+      "file": "exports/ID4CKRF.json"
+    },
     {
       "id": "ID4B9tE",
       "label": "Franciszka Klimczaka · Błonia Wilanowskie · 68 m² · 3 pok.",
