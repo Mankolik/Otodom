@@ -1,8 +1,26 @@
 {
   "schema_version": 1,
-  "updated_at_utc": "2026-08-24T19:28:55.130767+00:00",
-  "count": 14,
+  "updated_at_utc": "2026-08-24T19:30:28.340000+00:00",
+  "count": 15,
   "listings": [
+    {
+      "id": "ID4yDoG",
+      "label": "ul. Obrzeżna · Służewiec · 87.89 m² · 3 pok.",
+      "title": "Mieszkanie z dwiema sypialniami na Mokotowie",
+      "street": "ul. Obrzeżna",
+      "district": "Mokotów",
+      "neighbourhood": "Służewiec",
+      "area_m2": "87.89",
+      "rooms": "3",
+      "price": 5200,
+      "czynsz": 1400,
+      "fixed_monthly_total": 6600,
+      "advert_type": "AGENCY",
+      "advertiser": "Hamilton May",
+      "scraped_at_utc": "2026-08-24T19:30:28.261691+00:00",
+      "source_url": "https://www.otodom.pl/pl/oferta/mieszkanie-z-dwiema-sypialniami-na-mokotowie-ID4yDoG",
+      "file": "exports/ID4yDoG.json"
+    },
     {
       "id": "ID4Bo7J",
       "label": "Hlonda · Błonia Wilanowskie · 84 m² · 3 pok.",
