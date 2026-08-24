@@ -1,8 +1,26 @@
 {
   "schema_version": 1,
-  "updated_at_utc": "2026-08-24T19:30:28.340000+00:00",
-  "count": 15,
+  "updated_at_utc": "2026-08-24T19:31:44.362659+00:00",
+  "count": 16,
   "listings": [
+    {
+      "id": "ID4eJc3",
+      "label": "Pileckiego 107 · Stary Imielin · 77 m² · 3 pok.",
+      "title": "Pileckiego 107 - dwupoziomowe mieszkanie z garażem",
+      "street": "Pileckiego 107",
+      "district": "Ursynów",
+      "neighbourhood": "Stary Imielin",
+      "area_m2": "77",
+      "rooms": "3",
+      "price": 5300,
+      "czynsz": 1200,
+      "fixed_monthly_total": 6500,
+      "advert_type": "PRIVATE",
+      "advertiser": "Maciej",
+      "scraped_at_utc": "2026-08-24T19:31:44.295690+00:00",
+      "source_url": "https://www.otodom.pl/pl/oferta/pileckiego-107-dwupoziomowe-mieszkanie-z-garazem-ID4eJc3",
+      "file": "exports/ID4eJc3.json"
+    },
     {
       "id": "ID4yDoG",
       "label": "ul. Obrzeżna · Służewiec · 87.89 m² · 3 pok.",

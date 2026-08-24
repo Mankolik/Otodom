@@ -4,6 +4,7 @@ This file is rebuilt automatically after every export.
 
 | Saved | Listing | Area | Rooms | Rent | Czynsz | Fixed total | ID |
 |---|---|---:|---:|---:|---:|---:|---|
+| 2026-08-24 | Pileckiego 107 · Stary Imielin · 77 m² · 3 pok. | 77 | 3 | 5300 zł | 1200 zł | 6500 zł | ID4eJc3 |
 | 2026-08-24 | ul. Obrzeżna · Służewiec · 87.89 m² · 3 pok. | 87.89 | 3 | 5200 zł | 1400 zł | 6600 zł | ID4yDoG |
 | 2026-08-24 | Hlonda · Błonia Wilanowskie · 84 m² · 3 pok. | 84 | 3 | 5500 zł | 1200 zł | 6700 zł | ID4Bo7J |
 | 2026-08-24 | abp. Józefa Teodorowicza · Błonia Wilanowskie · 70 m² · 3 pok. | 70 | 3 | 5500 zł | 1040 zł | 6540 zł | ID4CwRC |
