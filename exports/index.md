@@ -4,6 +4,7 @@ This file is rebuilt automatically after every export.
 
 | Saved | Listing | Area | Rooms | Rent | Czynsz | Fixed total | ID |
 |---|---|---:|---:|---:|---:|---:|---|
+| 2026-08-24 | abp. Józefa Teodorowicza · Błonia Wilanowskie · 70 m² · 3 pok. | 70 | 3 | 5500 zł | 1040 zł | 6540 zł | ID4CwRC |
 | 2026-08-24 | ul. Franciszka Marii Lanciego · Natolin · 83 m² · 3 pok. | 83 | 3 | 5500 zł | 1200 zł | 6700 zł | ID4uKeQ |
 | 2026-08-24 | Bluszczańska · Siekierki · 72 m² · 3 pok. | 72 | 3 | 5200 zł | — | 5200 zł | ID4ClRv |
 | 2026-08-23 | Wyczółki · 74 m² · 3 pok. | 74 | 3 | 4500 zł | 1000 zł | 5500 zł | ID4CKRF |

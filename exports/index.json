@@ -1,8 +1,26 @@
 {
   "schema_version": 1,
-  "updated_at_utc": "2026-08-24T19:23:58.195164+00:00",
-  "count": 12,
+  "updated_at_utc": "2026-08-24T19:27:16.662495+00:00",
+  "count": 13,
   "listings": [
+    {
+      "id": "ID4CwRC",
+      "label": "abp. Józefa Teodorowicza · Błonia Wilanowskie · 70 m² · 3 pok.",
+      "title": "Rezerwacja",
+      "street": "abp. Józefa Teodorowicza",
+      "district": "Wilanów",
+      "neighbourhood": "Błonia Wilanowskie",
+      "area_m2": "70",
+      "rooms": "3",
+      "price": 5500,
+      "czynsz": 1040,
+      "fixed_monthly_total": 6540,
+      "advert_type": "AGENCY",
+      "advertiser": "Lares Estates",
+      "scraped_at_utc": "2026-08-24T19:27:16.588737+00:00",
+      "source_url": "https://www.otodom.pl/pl/oferta/rezerwacja-ID4CwRC",
+      "file": "exports/ID4CwRC.json"
+    },
     {
       "id": "ID4uKeQ",
       "label": "ul. Franciszka Marii Lanciego · Natolin · 83 m² · 3 pok.",
