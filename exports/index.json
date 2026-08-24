@@ -1,8 +1,26 @@
 {
   "schema_version": 1,
-  "updated_at_utc": "2026-08-24T19:27:16.662495+00:00",
-  "count": 13,
+  "updated_at_utc": "2026-08-24T19:28:55.130767+00:00",
+  "count": 14,
   "listings": [
+    {
+      "id": "ID4Bo7J",
+      "label": "Hlonda · Błonia Wilanowskie · 84 m² · 3 pok.",
+      "title": "Mieszkanie na osiedlu Ostoja",
+      "street": "Hlonda",
+      "district": "Wilanów",
+      "neighbourhood": "Błonia Wilanowskie",
+      "area_m2": "84",
+      "rooms": "3",
+      "price": 5500,
+      "czynsz": 1200,
+      "fixed_monthly_total": 6700,
+      "advert_type": "AGENCY",
+      "advertiser": "MAXON Nieruchomości",
+      "scraped_at_utc": "2026-08-24T19:28:55.026430+00:00",
+      "source_url": "https://www.otodom.pl/pl/oferta/mieszkanie-na-osiedlu-ostoja-ID4Bo7J",
+      "file": "exports/ID4Bo7J.json"
+    },
     {
       "id": "ID4CwRC",
       "label": "abp. Józefa Teodorowicza · Błonia Wilanowskie · 70 m² · 3 pok.",
