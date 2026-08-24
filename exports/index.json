@@ -1,8 +1,26 @@
 {
   "schema_version": 1,
-  "updated_at_utc": "2026-08-24T19:31:44.362659+00:00",
-  "count": 16,
+  "updated_at_utc": "2026-08-24T19:32:52.852646+00:00",
+  "count": 17,
   "listings": [
+    {
+      "id": "ID4Cl7S",
+      "label": "Służew · 74.9 m² · 3 pok.",
+      "title": "Apartament 74 m2 ✔ miejsce postojowe ✔ Mokotów",
+      "street": null,
+      "district": "Mokotów",
+      "neighbourhood": "Służew",
+      "area_m2": "74.9",
+      "rooms": "3",
+      "price": 5500,
+      "czynsz": 1825,
+      "fixed_monthly_total": 7325,
+      "advert_type": "AGENCY",
+      "advertiser": "Mirales",
+      "scraped_at_utc": "2026-08-24T19:32:52.770718+00:00",
+      "source_url": "https://www.otodom.pl/pl/oferta/apartament-74-m2-heavy-check-mark-miejsce-postojowe-heavy-check-mark-mokotow-ID4Cl7S",
+      "file": "exports/ID4Cl7S.json"
+    },
     {
       "id": "ID4eJc3",
       "label": "Pileckiego 107 · Stary Imielin · 77 m² · 3 pok.",
