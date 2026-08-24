@@ -1,8 +1,26 @@
 {
   "schema_version": 1,
-  "updated_at_utc": "2026-08-24T19:32:52.852646+00:00",
-  "count": 17,
+  "updated_at_utc": "2026-08-24T19:35:12.906696+00:00",
+  "count": 18,
   "listings": [
+    {
+      "id": "ID4CzLq",
+      "label": "Jana Pawła Woronicza · Służewiec · 80 m² · 3 pok.",
+      "title": "Unikatowy Soft-Loft | Qbik Woronicza",
+      "street": "Jana Pawła Woronicza",
+      "district": "Mokotów",
+      "neighbourhood": "Służewiec",
+      "area_m2": "80",
+      "rooms": "3",
+      "price": 6000,
+      "czynsz": 1601,
+      "fixed_monthly_total": 7601,
+      "advert_type": "AGENCY",
+      "advertiser": "Partners International Sp. z o.o.",
+      "scraped_at_utc": "2026-08-24T19:35:12.845658+00:00",
+      "source_url": "https://www.otodom.pl/pl/oferta/unikatowy-soft-loft-qbik-woronicza-ID4CzLq",
+      "file": "exports/ID4CzLq.json"
+    },
     {
       "id": "ID4Cl7S",
       "label": "Służew · 74.9 m² · 3 pok.",

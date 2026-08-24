@@ -1,0 +1,327 @@
+{
+  "schema_version": 1,
+  "source": {
+    "site": "otodom.pl",
+    "url": "https://www.otodom.pl/pl/oferta/unikatowy-soft-loft-qbik-woronicza-ID4CzLq",
+    "scraped_at_utc": "2026-08-24T19:35:12.845658+00:00"
+  },
+  "identity": {
+    "otodom_id_from_url": "ID4CzLq",
+    "id": 68299288,
+    "slug": "unikatowy-soft-loft-qbik-woronicza-ID4CzLq",
+    "title": "Unikatowy Soft-Loft | Qbik Woronicza",
+    "status": "active",
+    "advert_type": "AGENCY",
+    "market": "ALL"
+  },
+  "main": {
+    "price": 6000,
+    "currency": null,
+    "czynsz": 1601,
+    "deposit": 7000,
+    "area_m2": "80",
+    "rooms": [
+      "3"
+    ],
+    "floor": [
+      "floor_5"
+    ],
+    "building_floors": "8",
+    "build_year": "2012",
+    "property_type": "mieszkanie",
+    "building_type": [
+      "apartment"
+    ],
+    "building_material": null,
+    "heating": [
+      "urban"
+    ],
+    "windows": null,
+    "price_per_m2": null
+  },
+  "features": {
+    "equipment": null,
+    "extras": [
+      "lift",
+      "balcony",
+      "garage"
+    ],
+    "media": null,
+    "security": [
+      "monitoring"
+    ],
+    "characteristics": {
+      "price": {
+        "key": "price",
+        "value": "6000",
+        "currency": "PLN",
+        "localizedValue": "6000 zł"
+      },
+      "rent": {
+        "key": "rent",
+        "value": "1601",
+        "currency": "PLN",
+        "localizedValue": "1601 zł"
+      },
+      "deposit": {
+        "key": "deposit",
+        "value": "7000",
+        "currency": "PLN",
+        "localizedValue": "7000 zł"
+      },
+      "m": {
+        "key": "m",
+        "value": "80",
+        "localizedValue": "80 m²",
+        "currency": ""
+      },
+      "building_type": {
+        "key": "building_type",
+        "value": "apartment",
+        "localizedValue": "",
+        "currency": ""
+      },
+      "floor_no": {
+        "key": "floor_no",
+        "value": "floor_5",
+        "localizedValue": "",
+        "currency": ""
+      },
+      "construction_status": {
+        "key": "construction_status",
+        "value": "ready_to_use",
+        "localizedValue": "",
+        "currency": ""
+      },
+      "heating": {
+        "key": "heating",
+        "value": "urban",
+        "localizedValue": "",
+        "currency": ""
+      },
+      "rooms_num": {
+        "key": "rooms_num",
+        "value": "3",
+        "localizedValue": "3",
+        "currency": ""
+      },
+      "build_year": {
+        "key": "build_year",
+        "value": "2012",
+        "localizedValue": "2012",
+        "currency": ""
+      },
+      "building_floors_num": {
+        "key": "building_floors_num",
+        "value": "8",
+        "localizedValue": "8",
+        "currency": ""
+      },
+      "free_from": {
+        "key": "free_from",
+        "value": "2026-08-08",
+        "localizedValue": "2026-08-08",
+        "currency": ""
+      }
+    },
+    "target_all": {
+      "Area": "80",
+      "AreaRange": [],
+      "Build_year": "2012",
+      "Building_floors_num": "8",
+      "Building_type": [
+        "apartment"
+      ],
+      "City": "warszawa",
+      "City_id": "26",
+      "Construction_status": [
+        "ready_to_use"
+      ],
+      "Country": "Polska",
+      "Deposit": 7000,
+      "Extras_types": [
+        "lift",
+        "balcony",
+        "garage"
+      ],
+      "Floor_no": [
+        "floor_5"
+      ],
+      "Heating": [
+        "urban"
+      ],
+      "Id": "68299288",
+      "ObidoAdvert": "n",
+      "OfferType": "wynajem",
+      "Photo": "aHR0cHM6Ly9pcmVsYW5kLmFwb2xsby5vbHhjZG4uY29tL3YxL2ZpbGVzL2V5Sm1iaUk2SW5WdFpXUnJaRFF5WkRWbFpERXRSVU5QVTFsVFZFVk5JaXdpZHlJNlczc2labTRpT2lKbGJuWm1jWEZsTVdGNU5Hc3hMVUZRVENJc0luTWlPaUl4TkNJc0luQWlPaUl4TUN3dE1UQWlMQ0poSWpvaU1DSjlYWDAuZTFOd0w2OU5HTVJKOWNCeUQtaGdwSmZoMlJhQVNyaV9YN2NwYkVzSE9lUS9pbWFnZTtzPTY1NXg0OTE7cT04MA==",
+      "Price": 6000,
+      "PriceRange": [
+        "5001-10000"
+      ],
+      "ProperType": "mieszkanie",
+      "Province": "mazowieckie",
+      "RegularUser": "n",
+      "Rent": 1601,
+      "Rooms_num": [
+        "3"
+      ],
+      "Security_types": [
+        "monitoring"
+      ],
+      "Subregion": "powiat-warszawa",
+      "Title": "VW5pa2F0b3d5IFNvZnQtTG9mdCB8IFFiaWsgV29yb25pY3ph",
+      "categoryId": "102",
+      "env": "production",
+      "hidePrice": "0",
+      "seller_id": "470647",
+      "user_type": "agency"
+    }
+  },
+  "location": {
+    "street": "Jana Pawła Woronicza",
+    "city": "warszawa",
+    "province": "mazowieckie",
+    "reverse_geocoding": {
+      "voivodeship": {
+        "id": "mazowieckie",
+        "locationLevel": "voivodeship",
+        "name": "mazowieckie",
+        "fullName": "mazowieckie",
+        "fullNameItems": [
+          "mazowieckie"
+        ],
+        "parentIds": [],
+        "__typename": "BasicLocationObject"
+      },
+      "city_or_village": {
+        "id": "mazowieckie/warszawa/warszawa/warszawa",
+        "locationLevel": "city_or_village",
+        "name": "Warszawa",
+        "fullName": "Warszawa, mazowieckie",
+        "fullNameItems": [
+          "Warszawa",
+          "mazowieckie"
+        ],
+        "parentIds": [
+          "mazowieckie",
+          "mazowieckie/warszawa",
+          "mazowieckie/warszawa/warszawa"
+        ],
+        "__typename": "BasicLocationObject"
+      },
+      "district": {
+        "id": "mazowieckie/warszawa/warszawa/warszawa/mokotow",
+        "locationLevel": "district",
+        "name": "Mokotów",
+        "fullName": "Mokotów, Warszawa, mazowieckie",
+        "fullNameItems": [
+          "Mokotów",
+          "Warszawa",
+          "mazowieckie"
+        ],
+        "parentIds": [
+          "mazowieckie",
+          "mazowieckie/warszawa",
+          "mazowieckie/warszawa/warszawa",
+          "mazowieckie/warszawa/warszawa/warszawa"
+        ],
+        "__typename": "BasicLocationObject"
+      },
+      "residential": {
+        "id": "mazowieckie/warszawa/warszawa/warszawa/mokotow/sluzewiec",
+        "locationLevel": "residential",
+        "name": "Służewiec",
+        "fullName": "Służewiec, Mokotów, Warszawa, mazowieckie",
+        "fullNameItems": [
+          "Służewiec",
+          "Mokotów",
+          "Warszawa",
+          "mazowieckie"
+        ],
+        "parentIds": [
+          "mazowieckie",
+          "mazowieckie/warszawa",
+          "mazowieckie/warszawa/warszawa",
+          "mazowieckie/warszawa/warszawa/warszawa",
+          "mazowieckie/warszawa/warszawa/warszawa/mokotow"
+        ],
+        "__typename": "BasicLocationObject"
+      }
+    }
+  },
+  "advertiser": {
+    "owner_name": "Partners International Sp. z o.o.",
+    "agency_name": "Partners International Sp. z o.o."
+  },
+  "dates": {
+    "created_at": "2026-08-10T13:24:24Z",
+    "modified_at": "2026-08-23T11:00:19Z",
+    "pushed_up_at": null
+  },
+  "description": "LUKSUSOWY DWUPOZIOMOWY LOFT W INWESTYCJI QBIK WORONICZA\nWoronicza Qbik | Luksusowy loft | Okna 6m | Siłownia dla mieszkańców | Mokotów | Rental / Luxury\nPrezentujemy wyjątkowy, dwupoziomowy apartament w kultowej inwestycji Woronicza Qbik na warszawskim Mokotowie. To unikatowe wnętrze o charakterze soft-loftu zachwyca przestrzenią oraz monumentalnymi, przeszkleniami o wysokości aż 6 metrów, które doskonale doświetlają całe mieszkanie. Oferta stanowi idealną propozycję dla singla lub pary poszukujących niestandardowej, prestiżowej przestrzeni do życia w postindustrialnym klimacie z dostępem do prywatnego patio oraz strefy fitness.\n*****\nROZKŁAD POMIESZCZEŃ:\nDwupoziomowy, niezwykle przestrzenny układ zapewniający wyraźny podział na strefę dzienną oraz prywatną antresolę:\nPoziom I (Strefa Dzienna):\n* Przestronny salon z panoramicznymi oknami (wysokość 6 m),\n* otwarty, funkcjonalny aneks kuchenny,\n* reprezentacyjny hol,\n* toaleta dla gości.\nPoziom II (Strefa Prywatna / Antresola):\n* Komfortowa sypialnia,\n* gabinet do pracy lub druga sypialnia na antresoli,\n* elegancka łazienka.\nSTANDARD:\nLuksusowe wykończenie w klimacie nowoczesnego, postindustrialnego loftu:\n* Wnętrze i opcje mebli: Mieszkanie z możliwością wynajęcia bez umeblowania lub z opcją doposażenia w meble uzgodnione bezpośrednio z nowym najemcą.\n* Architektura i materiały: Monumentalne, 6-metrowe przeszklenia fasadowe, wysokie stropy, dbałość o detale z surowego betonu, szkła, drewna i metalu.\n* Udogodnienia w budynku: Bezpieczne, zielone wewnętrzne patio, przeszklony sześcian z prywatną siłownią i strefą fitness wyłącznie do użytku mieszkańców, plac zabaw na terenie kompleksu, liczne punkty usługowe i restauracje na parterze.\nLOKALIZACJA:\nWarszawa - Mokotów, ul. Woronicza (Inwestycja Woronicza Qbik):\n* Prestiżowy punkt Mokotowa z doskonałym dostępem do infrastruktury biznesowej i miejskiej.\n* Rekreacja i Zakupy: W bezpośrednim sąsiedztwie Galeria Mokotów, restauracje, kawiarnie, obiekty sportowe oraz centra medyczne.\n* Komunikacja: Przystanki autobusowe pod budynkiem (przystanek Woronicza), stacja metra Wierzbno (3 przystanki).\n* Szybki dojazd: Bliskość kluczowych arterii (ul. Wołoska, Puławska, Żwirki i Wigury, Al. Niepodległości). Dojazd do centrum Warszawy oraz na Lotnisko Chopina zajmuje zaledwie 10-15 minut.\nINFORMACJE DODATKOWE:\n* Czynsz najmu nie zawiera czynszu administracyjnego.\n* Dodatkowo płatne media według faktycznego zużycia (prąd, woda, ogrzewanie).\nZapraszamy do kontaktu!\n——————————————\nKONTAKT:\nSylwester Rozgowski\nPrzedstawiona wyżej oferta nie jest ofertą handlową w rozumieniu przepisów prawa, lecz ma charakter informacyjny. Partners International dokłada starań, aby treści przedstawione w naszych ofertach były aktualne i rzetelne. Dane dotyczące ofert uzyskano na podstawie oświadczeń wynajmujących.\nJako biuro nieruchomości pobieramy za usługę pośrednictwa wynagrodzenie w formie prowizji.\n——————————————\nCONTACT:\nSylwester Rozgowski\nOutlined above proposal is not a commercial offer for the purposes of the law but is informative. All data relating to real estate was obtained on the basis statements of the Landlords.\nAs a real estate agency we charge a commission.\n——————————————\nLUXURY TWO-LEVEL LOFT IN THE QBIK WORONICZA INVESTMENT\nWoronicza Qbik | Luxury loft | 6m high windows | Residents' gym | Mokotów | Rental / Luxury\nWe present an extraordinary two-level apartment in the iconic Woronicza Qbik development in Warsaw's Mokotów district. Designed as a soft-loft, this unique interior impresses with its open space and monumental 6-meter-high panoramic windows that flood the apartment with natural light. It is an ideal offer for a single professional or a couple seeking a prestigious, non-standard home with a post-industrial vibe, an exclusive fitness zone, and a private courtyard patio.\n*****\nLAYOUT:\nA two-level, highly spacious layout creating a clear distinction between the living area and the private mezzanine level:\nLevel I (Living Zone):\n* Spacious living room with panoramic floor-to-ceiling windows (6m height),\n* open-plan, functional kitchenette,\n* representative entrance hall,\n* guest toilet.\nLevel II (Private Mezzanine):\n* Comfortable master bedroom,\n* home office / second bedroom on the mezzanine level,\n* stylish main bathroom.\nSTANDARD:\nLuxurious finishing in a modern post-industrial loft aesthetic:\n* Furnishing options: Available unfurnished or with custom furniture provided in agreement with the tenant.\n* Architecture & Materials: Monumental 6-meter glass facades, soaring ceilings, refined details of exposed concrete, glass, wood, and metal.\n* Building Amenities: Secure green internal patio, glass cube housing an exclusive resident-only gym and fitness center, playground, and various service outlets on the ground floor.\nLOCATION:\nWarsaw - Mokotów, Woronicza St. (Woronicza Qbik Development):\n* A prestigious point in Mokotów with excellent access to business hubs and urban amenities.\n* Shopping & Recreation: Proximity to Westfield Mokotów shopping mall, restaurants, cafes, sports facilities, and medical centers.\n* Public Transport: Bus stops right outside the building (Woronicza stop), Wierzbno Metro Station just 3 bus stops away.\n* Road Links: Excellent connectivity via Wołoska, Puławska, Żwirki i Wigury, and Al. Niepodległości. Both Warsaw City Center and Chopin Airport are accessible within 10-15 minutes.\nADDITIONAL INFORMATION:\n* Rental Terms: Administrative rent is not included in the lease price.\n* Utilities: Additional charges apply based on actual consumption (electricity, water, heating).\nPlease contact us!",
+  "images": [
+    {
+      "thumbnail": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InVtZWRrZDQyZDVlZDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.3e7ggZ3qcWB2CJSsNWe3ZWoGs6zb_ND6VLH-EJi7zJU/image;s=184x138;q=80",
+      "small": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InVtZWRrZDQyZDVlZDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.3e7ggZ3qcWB2CJSsNWe3ZWoGs6zb_ND6VLH-EJi7zJU/image;s=314x236;q=80",
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InVtZWRrZDQyZDVlZDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.3e7ggZ3qcWB2CJSsNWe3ZWoGs6zb_ND6VLH-EJi7zJU/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InVtZWRrZDQyZDVlZDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.3e7ggZ3qcWB2CJSsNWe3ZWoGs6zb_ND6VLH-EJi7zJU/image;s=2048x1536;q=80",
+      "isExterior": false
+    },
+    {
+      "thumbnail": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Inp3azUxZml1Z2Y3ay1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.AxrBtX9D8UtkG9xAb6uKpQVd2RX0YgP71VabtfxsyZs/image;s=184x138;q=80",
+      "small": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Inp3azUxZml1Z2Y3ay1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.AxrBtX9D8UtkG9xAb6uKpQVd2RX0YgP71VabtfxsyZs/image;s=314x236;q=80",
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Inp3azUxZml1Z2Y3ay1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.AxrBtX9D8UtkG9xAb6uKpQVd2RX0YgP71VabtfxsyZs/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Inp3azUxZml1Z2Y3ay1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.AxrBtX9D8UtkG9xAb6uKpQVd2RX0YgP71VabtfxsyZs/image;s=2048x1536;q=80",
+      "isExterior": false
+    },
+    {
+      "thumbnail": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imw4N2E1dmFsd2FtYi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.fvbhfTfJlzgnCv9XckG8yES3woGwArq31J6C5dULPZ4/image;s=184x138;q=80",
+      "small": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imw4N2E1dmFsd2FtYi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.fvbhfTfJlzgnCv9XckG8yES3woGwArq31J6C5dULPZ4/image;s=314x236;q=80",
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imw4N2E1dmFsd2FtYi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.fvbhfTfJlzgnCv9XckG8yES3woGwArq31J6C5dULPZ4/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imw4N2E1dmFsd2FtYi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.fvbhfTfJlzgnCv9XckG8yES3woGwArq31J6C5dULPZ4/image;s=2048x1536;q=80",
+      "isExterior": false
+    },
+    {
+      "thumbnail": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImQxbGN6ZHFpejMwODEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.TxTe9pUS99TcyLyxYFsQylGqGM9KezbE97OqwoVWcgc/image;s=184x138;q=80",
+      "small": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImQxbGN6ZHFpejMwODEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.TxTe9pUS99TcyLyxYFsQylGqGM9KezbE97OqwoVWcgc/image;s=314x236;q=80",
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImQxbGN6ZHFpejMwODEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.TxTe9pUS99TcyLyxYFsQylGqGM9KezbE97OqwoVWcgc/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImQxbGN6ZHFpejMwODEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.TxTe9pUS99TcyLyxYFsQylGqGM9KezbE97OqwoVWcgc/image;s=2048x1536;q=80",
+      "isExterior": false
+    },
+    {
+      "thumbnail": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imt5b3hrZjE5OGVxdjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Up7jKISRcXaBQ2wWE6jMEHgvv9GnnxSghN3A_HQj4M0/image;s=184x138;q=80",
+      "small": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imt5b3hrZjE5OGVxdjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Up7jKISRcXaBQ2wWE6jMEHgvv9GnnxSghN3A_HQj4M0/image;s=314x236;q=80",
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imt5b3hrZjE5OGVxdjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Up7jKISRcXaBQ2wWE6jMEHgvv9GnnxSghN3A_HQj4M0/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imt5b3hrZjE5OGVxdjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Up7jKISRcXaBQ2wWE6jMEHgvv9GnnxSghN3A_HQj4M0/image;s=2048x1536;q=80",
+      "isExterior": false
+    },
+    {
+      "thumbnail": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjEyaDhoM2s3aHFyeDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.qpL1aE8JsCL2_fOitIj5tg3WCUbGh235tW3-WW46a24/image;s=184x138;q=80",
+      "small": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjEyaDhoM2s3aHFyeDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.qpL1aE8JsCL2_fOitIj5tg3WCUbGh235tW3-WW46a24/image;s=314x236;q=80",
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjEyaDhoM2s3aHFyeDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.qpL1aE8JsCL2_fOitIj5tg3WCUbGh235tW3-WW46a24/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjEyaDhoM2s3aHFyeDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.qpL1aE8JsCL2_fOitIj5tg3WCUbGh235tW3-WW46a24/image;s=2048x1536;q=80",
+      "isExterior": false
+    },
+    {
+      "thumbnail": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjdsZnN2bG5wY2I2ZzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.I7P2RKiNiDMrgDbQlUhKfzCxk5sLbQa3IyXkC2Ce6vs/image;s=184x138;q=80",
+      "small": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjdsZnN2bG5wY2I2ZzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.I7P2RKiNiDMrgDbQlUhKfzCxk5sLbQa3IyXkC2Ce6vs/image;s=314x236;q=80",
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjdsZnN2bG5wY2I2ZzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.I7P2RKiNiDMrgDbQlUhKfzCxk5sLbQa3IyXkC2Ce6vs/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjdsZnN2bG5wY2I2ZzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.I7P2RKiNiDMrgDbQlUhKfzCxk5sLbQa3IyXkC2Ce6vs/image;s=2048x1536;q=80",
+      "isExterior": false
+    },
+    {
+      "thumbnail": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InF6M2ZsdGY5ODhudy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.ZcVTPzS1Y3lkfDG3GwMFwbuu4hUy84Z5pMuByu1pFWU/image;s=184x138;q=80",
+      "small": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InF6M2ZsdGY5ODhudy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.ZcVTPzS1Y3lkfDG3GwMFwbuu4hUy84Z5pMuByu1pFWU/image;s=314x236;q=80",
+      "medium": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InF6M2ZsdGY5ODhudy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.ZcVTPzS1Y3lkfDG3GwMFwbuu4hUy84Z5pMuByu1pFWU/image;s=655x491;q=80",
+      "large": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InF6M2ZsdGY5ODhudy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.ZcVTPzS1Y3lkfDG3GwMFwbuu4hUy84Z5pMuByu1pFWU/image;s=2048x1536;q=80",
+      "isExterior": false
+    }
+  ],
+  "links": {
+    "localPlanUrl": "",
+    "walkaroundUrl": "",
+    "videoUrl": "",
+    "view3dUrl": ""
+  },
+  "share_code": "OTO-ID4CzLq"
+}

@@ -4,6 +4,7 @@ This file is rebuilt automatically after every export.
 
 | Saved | Listing | Area | Rooms | Rent | Czynsz | Fixed total | ID |
 |---|---|---:|---:|---:|---:|---:|---|
+| 2026-08-24 | Jana Pawła Woronicza · Służewiec · 80 m² · 3 pok. | 80 | 3 | 6000 zł | 1601 zł | 7601 zł | ID4CzLq |
 | 2026-08-24 | Służew · 74.9 m² · 3 pok. | 74.9 | 3 | 5500 zł | 1825 zł | 7325 zł | ID4Cl7S |
 | 2026-08-24 | Pileckiego 107 · Stary Imielin · 77 m² · 3 pok. | 77 | 3 | 5300 zł | 1200 zł | 6500 zł | ID4eJc3 |
 | 2026-08-24 | ul. Obrzeżna · Służewiec · 87.89 m² · 3 pok. | 87.89 | 3 | 5200 zł | 1400 zł | 6600 zł | ID4yDoG |
