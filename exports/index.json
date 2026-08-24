@@ -1,8 +1,26 @@
 {
   "schema_version": 1,
-  "updated_at_utc": "2026-08-23T21:19:40.600323+00:00",
-  "count": 10,
+  "updated_at_utc": "2026-08-24T19:22:44.088919+00:00",
+  "count": 11,
   "listings": [
+    {
+      "id": "ID4ClRv",
+      "label": "Bluszczańska · Siekierki · 72 m² · 3 pok.",
+      "title": "3 pokoje | 72 m² | Garaż | Bluszczańska 14A",
+      "street": "Bluszczańska",
+      "district": "Mokotów",
+      "neighbourhood": "Siekierki",
+      "area_m2": "72",
+      "rooms": "3",
+      "price": 5200,
+      "czynsz": null,
+      "fixed_monthly_total": 5200,
+      "advert_type": "AGENCY",
+      "advertiser": "Concierge House",
+      "scraped_at_utc": "2026-08-24T19:22:44.023606+00:00",
+      "source_url": "https://www.otodom.pl/pl/oferta/3-pokoje-72-m-garaz-bluszczanska-14a-ID4ClRv",
+      "file": "exports/ID4ClRv.json"
+    },
     {
       "id": "ID4CKRF",
       "label": "Wyczółki · 74 m² · 3 pok.",

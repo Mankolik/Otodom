@@ -4,6 +4,7 @@ This file is rebuilt automatically after every export.
 
 | Saved | Listing | Area | Rooms | Rent | Czynsz | Fixed total | ID |
 |---|---|---:|---:|---:|---:|---:|---|
+| 2026-08-24 | Bluszczańska · Siekierki · 72 m² · 3 pok. | 72 | 3 | 5200 zł | — | 5200 zł | ID4ClRv |
 | 2026-08-23 | Wyczółki · 74 m² · 3 pok. | 74 | 3 | 4500 zł | 1000 zł | 5500 zł | ID4CKRF |
 | 2026-08-22 | Franciszka Klimczaka · Błonia Wilanowskie · 68 m² · 3 pok. | 68 | 3 | 4300 zł | 0 zł | 4300 zł | ID4B9tE |
 | 2026-08-22 | ul. Białej Floty · Wyględów · 55 m² · 3 pok. | 55 | 3 | 4300 zł | 1100 zł | 5400 zł | ID4Cw2a |
