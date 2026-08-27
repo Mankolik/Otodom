@@ -1,8 +1,26 @@
 {
   "schema_version": 1,
-  "updated_at_utc": "2026-08-24T19:35:12.906696+00:00",
-  "count": 18,
+  "updated_at_utc": "2026-08-27T14:28:14.977989+00:00",
+  "count": 19,
   "listings": [
+    {
+      "id": "ID4CO4B",
+      "label": "ul. Mariana Zdziechowskiego · Ksawerów · 58 m² · 3 pok.",
+      "title": "apartament 3 pokoje loggia garaż Holm House",
+      "street": "ul. Mariana Zdziechowskiego",
+      "district": "Mokotów",
+      "neighbourhood": "Ksawerów",
+      "area_m2": "58",
+      "rooms": "3",
+      "price": 4500,
+      "czynsz": 1250,
+      "fixed_monthly_total": 5750,
+      "advert_type": "PRIVATE",
+      "advertiser": "Justyna",
+      "scraped_at_utc": "2026-08-27T14:28:14.896801+00:00",
+      "source_url": "https://www.otodom.pl/pl/oferta/apartament-3-pokoje-loggia-garaz-holm-house-ID4CO4B",
+      "file": "exports/ID4CO4B.json"
+    },
     {
       "id": "ID4CzLq",
       "label": "Jana Pawła Woronicza · Służewiec · 80 m² · 3 pok.",
